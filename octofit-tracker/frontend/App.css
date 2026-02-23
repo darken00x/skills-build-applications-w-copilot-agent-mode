@@ -1,0 +1,49 @@
+/* App.css for OctoFit Tracker frontend styling with Bootstrap */
+
+body {
+  font-family: 'Segoe UI', Arial, sans-serif;
+  background-color: #f8f9fa;
+}
+
+.navbar {
+  margin-bottom: 2rem;
+}
+
+.card {
+  margin: 1rem 0;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
+
+.table {
+  background-color: #fff;
+  border-radius: 0.25rem;
+}
+
+.table th, .table td {
+  vertical-align: middle;
+}
+
+.btn-primary, .btn-success, .btn-danger, .btn-warning {
+  margin: 0.25rem;
+}
+
+.form-control {
+  border-radius: 0.25rem;
+}
+
+.modal-content {
+  border-radius: 0.5rem;
+}
+
+h1, h2, h3, h4, h5 {
+  font-weight: 600;
+  color: #343a40;
+}
+
+a {
+  color: #007bff;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
